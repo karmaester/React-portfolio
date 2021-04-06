@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Khristian, a Full-Stack software developer.\n I use top technologies to create attractive and efficient web platforms as business solutions for all kinds of enterprises.\nI began my career as a translator and language teacher as I developed strong communication skills. Recently I enrolled in Microverse, a remote software development school, where I practiced pair-programming in over 40 different projects, from UX design to API’s, with remote developers from all around the world.\nI believe in making people's lives better through code.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -29,8 +29,8 @@
             "name": "TypeScript"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-postgresql-plain",
+            "name": "Postgresql"
           }
         ]
       },
