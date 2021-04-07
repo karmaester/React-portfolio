@@ -2,7 +2,10 @@
 
 - Made to display projects and information about myself.
 
-![screenshot](src/images/screenshot.png)
+![screenshot](public/images/readme/1.png)
+![screenshot](public/images/readme/2.png)
+![screenshot](public/images/readme/3.png)
+![screenshot](public/images/readme/4.png)
 
 ## Live Demo
 
