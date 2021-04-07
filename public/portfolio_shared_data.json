@@ -12,6 +12,11 @@
           "name": "instagram",
           "url": "https://www.linkedin.com/in/khristian-rojas/",
           "class": "fab fa-linkedin"
+        },
+        {
+          "name": "medium",
+          "url": "https://khristianrojas.medium.com/",
+          "class": "fab fa-medium"
         }
       ],
       "image": "myProfile.jpg"
