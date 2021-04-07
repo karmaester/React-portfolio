@@ -1,0 +1,73 @@
+{
+    "basic_info": {
+      "name": "Khristian Rojas",
+      "titles": [ "Full-Stack Developer", "Ruby on Rails", "React-Redux", "Sass", "Postgresql" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/karmaester",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.linkedin.com/in/khristian-rojas/",
+          "class": "fab fa-linkedin"
+        },
+        {
+          "name": "medium",
+          "url": "https://khristianrojas.medium.com/",
+          "class": "fab fa-medium"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-original",
+          "level": "80"
+        },
+        {
+          "name": "Ruby on Rails",
+          "class": "devicon-rails-plain",
+          "level": "90"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "Sass",
+          "class": "devicon-sass-original",
+          "level": "75"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+        {
+          "name": "Postgresql",
+          "class": "devicon-postgresql-plain",
+          "level": "65"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        }
+      ]
+    }
+  }
