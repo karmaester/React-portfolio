@@ -1,116 +1,121 @@
 {
-    "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Jestem Davina Griss. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Dorota1997. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
-      "section_name": {
-        "about": "O mnie",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
-      }
+  "basic_info": {
+    "description_header": "Hola",
+    "description": "👋 Mi nombre es Khristian, soy un desarrollador de software Full-Stack. Uso JavaScript, React-Redux y Ruby on Rails para crear plataformas web atractivas y eficientes como soluciones comerciales para todo tipo de empresas. Mi carrera comenzó como traductor y profesor de idiomas, pasé todos los días trabajando con una variedad de personas de diferentes culturas mientras desarrollaba sólidas habilidades de comunicación, enseñándoles también cómo asociar conceptos de un idioma a otro y la lógica detrás de ello. Buscando formas mejores y didácticas de enseñar a mis alumnos, me encontré interesado en resolver problemas a través del código, una industria donde las habilidades para aprender, enseñar, relacionarse bien con las personas y una alta ética laboral son de mucho valor. Recientemente me inscribí en Microverse, una escuela de desarrollo de software remoto, donde practiqué la programación de pares en más de 40 proyectos diferentes, desde diseño UX hasta APIs, con desarrolladores remotos de todo el mundo.  ",
+    "section_name": {
+      "about": "Sobre mi",
+      "projects": "Proyectos",
+      "skills": "Habilidades",
+      "experience": "Experiencia"
+    }
+  },
+  "projects": [
+    {
+      "title": "Thoughts RED SOCIAL",
+      "startDate": "2020",
+      "description": "Aplicación de redes sociales llamada Thoughts (pensamientos) como un rediseño de Twitter, autenticación con gema Devise",
+      "images": [
+        "images/portfolio/ror/p1.png",
+        "images/portfolio/ror/p2.png"
+      ],
+      "url": "https://vast-reef-44091.herokuapp.com/",
+      "technologies": [
+        {
+          "class": "devicon-ruby-plain",
+          "name": "Ruby"
+        },
+        {
+          "class": "devicon-rails-plain",
+          "name": "Ruby on Rails"
+        },
+        {
+          "class": "devicon-postgresql-plain",
+          "name": "Postgresql"
+        }
+      ]
     },
-    "projects": [
-      {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
-        "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      }
-    ],
-    "experience": [
-      {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - obecnie",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Stażystka",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "Swagger",
-          "JavaScript",
-          "DHTMLX Gantt"
-        ]
-      }
-    ]
-  }
+    {
+      "title": "JUEGO DE ROL",
+      "startDate": "2021",
+      "description": "Juego de rol desarrollado con Phaser3, ES6 y Webpack. El jugador lucha contra monstruos para sumar puntos y evitar ser derrotado.",
+      "images": [
+        "images/portfolio/game/p1.png",
+        "images/portfolio/game/p2.png"
+      ],
+      "url": "https://vigorous-feynman-e24bb9.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-webpack-plain",
+          "name": "Webpack"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "APRENDIZAJE INTERACTIVO",
+      "startDate": "2020",
+      "description": "Aplicación JS para permitir a los maestros automatizar el proceso de aprendizaje de sus estudiantes con preguntas, opciones para responder, animaciones y sugerencias sobre sus respuestas.",
+      "images": [
+        "images/portfolio/language-learning/p1.png",
+        "images/portfolio/language-learning/p2.png"
+      ],
+      "url": "https://karmaester.github.io/Interactive-Learning/",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Freelance",
+      "title": "Desarrollador Full-Stack",
+      "years": "10.2020 - presente",
+      "mainTech": [
+        "Ruby on Rails | React"
+      ],
+      "technologies": [
+        "Ruby on Rails",
+        "React",
+        "JavaScript",
+        "Bootstrap",
+        "Sass",
+        "Webpack",
+        "Postgresql"
+      ]
+    },
+    {
+      "company": "Microverse",
+      "title": "Estudiante - Mentor",
+      "years": "08.2020 - 04.2021",
+      "mainTech": [
+        "Ruby on Rails | React"
+      ],
+      "technologies": [
+        "HTML5",
+        "CSS3",
+        "Bootstrap",
+        "Sass",
+        "JavaScript",
+        "Ruby",
+        "Ruby on Rails",
+        "Webpack",
+        "Phaser3",
+        "React-Redux"
+      ]
+    }
+  ]
+}
