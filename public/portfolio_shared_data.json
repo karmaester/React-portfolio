@@ -69,5 +69,17 @@
           "level": "60"
         }
       ]
+    },
+    "contacts": {
+      "data": [
+        {
+          "name": "email",
+          "info": "khristianrdev@gmail.com"
+        },
+        {
+          "name": "phone",
+          "info": "+56 948040481"
+        }
+      ]
     }
   }
