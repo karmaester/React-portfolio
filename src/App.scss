@@ -2,6 +2,9 @@
 @import '../src/scss/themes/theme-light.scss';
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200;300&display=swap');
 
+$primary-color:#3aafa9;
+$secondary-color: #2b7a78;
+
 html {
 	font-size: 62.5%;
 	-webkit-font-smoothing: antialiased;
@@ -38,7 +41,7 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #e9d5a1;
+	background-color: $primary-color;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -74,7 +77,7 @@ header {
 
 .language {
 	font-size: 25px;
-	background-color: #e9d5a1;
+	background-color: $primary-color;
 	padding-bottom: 10px;
 	padding-top: 80px;
 }
@@ -90,11 +93,11 @@ header h1 {
 }
 
 .slider-image {
-	border: 5px solid #D7CAAA;
+	border: 5px solid $secondary-color;
 }
 
 .slider-tab {
-	background-color: #D7CAAA;
+	background-color: $secondary-color;
 	height: 25px;
 }
 
@@ -219,7 +222,7 @@ header h1 {
 }
 
 #resume {
-	background: #efe1bd;
+	background: $primary-color;
 }
 
 .experience-icon {
@@ -233,7 +236,7 @@ header h1 {
 	text-align: left !important;
 	padding: 5px 8px 5px 8px !important;
 	vertical-align: baseline;
-	background-color: #AE944F !important;
+	background-color: $secondary-color !important;
 	color: white;
 	font-weight: lighter !important;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -244,7 +247,7 @@ header h1 {
 	text-align: left !important;
 	padding: 5px 8px 5px 8px !important;
 	vertical-align: baseline;
-	background-color: #f9f5e9 !important;
+	background-color: $primary-color !important;
 	color: black;
 	font-weight: lighter !important;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -341,7 +344,7 @@ header h1 {
 }
 
 #portfolio {
-	background: #efe1bd;
+	background: $primary-color;
 	padding-bottom: 5%;
 }
 
@@ -451,7 +454,7 @@ footer a:focus {
 	}
 	div:hover {
 		padding: 0.5rem 1.5rem;
-		background: #efe1bd;
+		background: $primary-color;
 		color: #000; 
 	}
 
