@@ -20,6 +20,7 @@
         "images/portfolio/ror/p2.png"
       ],
       "url": "https://vast-reef-44091.herokuapp.com/",
+      "urlg": "https://github.com/karmaester/Thoughts-Social-Media",
       "technologies": [
         {
           "class": "devicon-ruby-plain",
@@ -44,6 +45,7 @@
         "images/portfolio/game/p2.png"
       ],
       "url": "https://vigorous-feynman-e24bb9.netlify.app/",
+      "urlg": "https://github.com/karmaester/RPG-Game",
       "technologies": [
         {
           "class": "devicon-webpack-plain",
@@ -64,6 +66,7 @@
         "images/portfolio/language-learning/p2.png"
       ],
       "url": "https://karmaester.github.io/Interactive-Learning/",
+      "urlg": "https://github.com/karmaester/Interactive-Learning",
       "technologies": [
         {
           "class": "devicon-html5-plain",
