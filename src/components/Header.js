@@ -28,6 +28,15 @@ class Header extends Component {
     if (this.props.sharedData) {
       var name = this.props.sharedData.name;
       this.titles = this.props.sharedData.titles.map(x => [ x.toUpperCase(), 1500 ] ).flat();
+      var networks = this.props.sharedData.social.map(function (network) {
+        return (
+          <span key={network.name} className="m-4 neg">
+            <a href={network.url} target="_blank" rel="noopener noreferrer">
+              <i className={network.class}></i>
+            </a>
+          </span>
+        );
+      });
     }
 
     const HeaderTitleTypeAnimation = React.memo( () => {
@@ -36,6 +45,7 @@ class Header extends Component {
 
     return (
       <header id="home" style={{ height: window.innerHeight - 140, display: 'block' }}>
+          <div className="social-links">{networks}</div>
         <div className="row aligner" style={{height: '100%'}}>
           <div className="col-md-12">
             <div>
