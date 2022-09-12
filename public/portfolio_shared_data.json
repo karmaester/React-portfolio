@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Khristian Rojas",
-      "titles": [ "Full-Stack Developer", "Ruby on Rails", "React-Redux", "Sass", "Postgresql" ],
+      "titles": [ "Full-Stack Developer", "Ruby on Rails", "React", "Next JS", "Nest JS", "Sass", "Postgresql", "GraphQL", "Mongo db", "Kubernetes" ],
       "social": [
         {
           "name": "github",
@@ -24,13 +24,13 @@
     "skills": {
       "icons": [
         {
-          "name": "HTML 5",
-          "class": "devicon-html5-plain",
+          "name": "TypeScript",
+          "class": "devicon-typescript-original",
           "level": "95"
         },
         {
-          "name": "CSS 3",
-          "class": "devicon-css3-plain",
+          "name": "Node",
+          "class": "devicon-nodejs-plain",
           "level": "95"
         },
         {
@@ -54,8 +54,13 @@
           "level": "75"
         },
         {
-          "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain",
+          "name": "Docker",
+          "class": "devicon-docker-plain",
+          "level": "85"
+        },
+        {
+          "name": "Mongo",
+          "class": "devicon-mongodb-plain",
           "level": "85"
         },
         {

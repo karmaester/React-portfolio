@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hola",
-    "description": "👋 Mi nombre es Khristian, soy un desarrollador de software Full-Stack. Uso JavaScript, React-Redux y Ruby on Rails para crear plataformas web atractivas y eficientes como soluciones comerciales para todo tipo de empresas. Mi carrera comenzó como traductor y profesor de idiomas, pasé todos los días trabajando con una variedad de personas de diferentes culturas mientras desarrollaba sólidas habilidades de comunicación, enseñándoles también cómo asociar conceptos de un idioma a otro y la lógica detrás de ello. Buscando formas mejores y didácticas de enseñar a mis alumnos, me encontré interesado en resolver problemas a través del código, una industria donde las habilidades para aprender, enseñar, relacionarse bien con las personas y una alta ética laboral son de mucho valor. Recientemente me inscribí en Microverse, una escuela de desarrollo de software remoto, donde practiqué la programación de pares en más de 40 proyectos diferentes, desde diseño UX hasta APIs, con desarrolladores remotos de todo el mundo.  ",
+    "description": "👋 Mi nombre es Khristian, soy un desarrollador de software Full-Stack. Uso JavaScript, React-Redux y Ruby on Rails para crear plataformas web atractivas y eficientes como soluciones comerciales para todo tipo de empresas. Mi carrera comenzó como traductor y profesor de idiomas, pasé todos los días trabajando con una variedad de personas de diferentes culturas mientras desarrollaba sólidas habilidades de comunicación, enseñándoles también cómo asociar conceptos de un idioma a otro y la lógica detrás de ello. Buscando formas mejores y didácticas de enseñar a mis alumnos, me encontré interesado en resolver problemas a través del código, una industria donde las habilidades para aprender, enseñar, relacionarse bien con las personas y una alta ética laboral son de mucho valor. ",
     "section_name": {
       "about": "Sobre mi",
       "projects": "Proyectos",
@@ -81,9 +81,92 @@
           "name": "JavaScript"
         }
       ]
+    },
+    {
+      "title": "Reto Atma",
+      "startDate": "2021",
+      "description": "Landing page para servicios de salud.",
+      "images": [
+        "images/portfolio/retoatma/p1.png",
+        "images/portfolio/retoatma/p2.png"
+      ],
+      "url": "https://retoatma.com/",
+      "technologies": [
+        {
+          "class": "devicon-rails-plain",
+          "name": "Ruby on Rails"
+        },
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        }
+      ]
+    },
+    {
+      "title": "Multifrio",
+      "startDate": "2022",
+      "description": "Landing page para empresa de servicios de aire acondicionado.",
+      "images": [
+        "images/portfolio/multifrio/p1.png",
+        "images/portfolio/multifrio/p2.png"
+      ],
+      "url": "http://multifrio.cl/",
+      "technologies": [
+        {
+          "class": "devicon-typescript-plain",
+          "name": "Typescript"
+        },
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        }
+      ]
+    },
+    {
+      "title": "Ingeniería del bienestar",
+      "startDate": "2022",
+      "description": "Landing page para servicios de salud.",
+      "images": [
+        "images/portfolio/wellness/p1.png",
+        "images/portfolio/wellness/p2.png"
+      ],
+      "url": "https://ingenieria-del-bienestar-3ifu8gvtl-karmaester.vercel.app/",
+      "technologies": [
+        {
+          "class": "devicon-typescript-plain",
+          "name": "Typescript"
+        },
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        }
+      ]
     }
   ],
   "experience": [
+    {
+      "company": "Kranio",
+      "title": "Ingeniero de software - Líder técnico - Scrum master",
+      "years": "08.2021 - presente",
+      "mainTech": [
+        "TS | React | Next JS | Nest JS"
+      ],
+      "technologies": [
+        "TypeScript",
+        "React",
+        "JavaScript",
+        "Next JS",
+        "Nest JS",
+        "Node JS",
+        "GraphQL",
+        "Apollo Server",
+        "Microservices",
+        "Sass",
+        "Docker",
+        "Kubernetes",
+        "Mongo DB"
+      ]
+    },
     {
       "company": "Freelance",
       "title": "Desarrollador Full-Stack",

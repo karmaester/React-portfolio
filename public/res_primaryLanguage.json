@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 My name is Khristian, I’m a full-stack software developer, and I use JavaScript, React-Redux, and Ruby on Rails to create attractive and efficient web platforms as business solutions for all kinds of enterprises.\n\nMy career began as a translator and language teacher, I spent every day working with a variety of people from different cultures as I developed strong communication skills, also teaching them how to associate concepts from one language to another and the logic behind it.\n\nLooking for better and didactic ways of teaching my students, I encountered myself interested in solving problems through code, an industry where the abilities to learn, teach, relate well to people, and high work ethics are of much value.\n\nRecently I enrolled in Microverse, a remote software development school, where I practiced pair-programming in over 40 different projects, from UX design to APIs, with remote developers from all around the world.  ",
+      "description": "👋 My name is Khristian, I’m a full-stack software developer, and I use JavaScript, React-Redux, and Ruby on Rails to create attractive and efficient web platforms as business solutions for all kinds of enterprises.\n\nMy career began as a translator and language teacher, I spent every day working with a variety of people from different cultures as I developed strong communication skills, also teaching them how to associate concepts from one language to another and the logic behind it.\n\nLooking for better and didactic ways of teaching my students, I encountered myself interested in solving problems through code, an industry where the abilities to learn, teach, relate well to people, and high work ethics are of much value.  ",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -81,13 +81,96 @@
             "name": "JavaScript"
           }
         ]
+      },
+      {
+        "title": "Reto Atma",
+        "startDate": "2021",
+        "description": "Landing page for health services.",
+        "images": [
+          "images/portfolio/retoatma/p1.png",
+          "images/portfolio/retoatma/p2.png"
+        ],
+        "url": "https://retoatma.com/",
+        "technologies": [
+          {
+            "class": "devicon-rails-plain",
+            "name": "Ruby on Rails"
+          },
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          }
+        ]
+      },
+      {
+        "title": "Multifrio",
+        "startDate": "2022",
+        "description": "Landing page for air conditioning services company",
+        "images": [
+          "images/portfolio/multifrio/p1.png",
+          "images/portfolio/multifrio/p2.png"
+        ],
+        "url": "http://multifrio.cl/",
+        "technologies": [
+          {
+            "class": "devicon-typescript-plain",
+            "name": "Typescript"
+          },
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          }
+        ]
+      },
+      {
+        "title": "Ingeniería del bienestar",
+        "startDate": "2022",
+        "description": "Landing page for health services.",
+        "images": [
+          "images/portfolio/wellness/p1.png",
+          "images/portfolio/wellness/p2.png"
+        ],
+        "url": "https://ingenieria-del-bienestar-3ifu8gvtl-karmaester.vercel.app/",
+        "technologies": [
+          {
+            "class": "devicon-typescript-plain",
+            "name": "Typescript"
+          },
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          }
+        ]
       }
     ],
     "experience": [
       {
+        "company": "Kranio",
+        "title": "Software Engineer - Tech Lead - Scrum master",
+        "years": "08.2021 - present",
+        "mainTech": [
+          "TS | React | Next JS | Nest JS"
+        ],
+        "technologies": [
+          "TypeScript",
+          "React",
+          "JavaScript",
+          "Next JS",
+          "Nest JS",
+          "Node JS",
+          "GraphQL",
+          "Apollo Server",
+          "Microservices",
+          "Sass",
+          "Docker",
+          "Kubernetes",
+          "Mongo DB"
+        ]
+      },
+      {
         "company": "Freelance",
         "title": "Full-Stack Developer",
-        "years": "10.2020 - present",
+        "years": "10.2020 - 08.2021",
         "mainTech": [
           "Ruby on Rails | React"
         ],
